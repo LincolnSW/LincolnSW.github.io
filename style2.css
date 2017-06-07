@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+	color:#9e5683;
+}
+
+.img{
+	text-align: center;
+}
+
+p{
+	color:#00fff7;
+	font-size:19px;
+}
+
+h2{
+	color:#FFC107;
+	font-size: 25px
+}
+
+h3{
+	color:#FFC107;
+	font-size: 25px 
+}
+
+ol{
+	color:#aadbe4;
+	font-size:20px;
+}
+
+ul{
+	color:#f7d5d5;
+	font-size:20px;
+}
+
+body{
+	background-image: url("sea.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+footer{
+	background-color:#d9ffea; 
+	
+
+	
+
+	
+}

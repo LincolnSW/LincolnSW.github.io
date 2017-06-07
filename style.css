@@ -1,0 +1,30 @@
+h1{
+	color:#b31b82;
+}
+h2{
+	color: #2cab38
+}
+
+h3{
+	color:grey;
+	font-size:22px
+
+}
+
+p{  color:#d0217f;
+	font-size:19px;
+
+}
+ul{
+	color:orange;
+	font-size:20px;
+}
+
+.lin{
+	text-align: center
+	
+}
+.pictures{
+	text-align: center
+}
+
