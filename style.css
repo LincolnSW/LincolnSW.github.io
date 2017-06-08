@@ -11,6 +11,15 @@ h3{
 
 }
 
+h4{
+	font-size:22px;
+	color:#bdd8e8;
+}
+
+body{
+	background-color:#403a3b;
+}
+
 p{  color:#d0217f;
 	font-size:19px;
 
@@ -26,5 +35,15 @@ ul{
 }
 .pictures{
 	text-align: center
+}
+
+a{
+	color:white; 
+	font-size: 20px
+}
+
+audio{
+	max-width: 200px
+
 }
 

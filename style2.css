@@ -8,17 +8,21 @@ h1{
 }
 
 p{
-	color:#00fff7;
+	color:#6b0e0e;
 	font-size:19px;
 }
-
-h2{
-	color:#FFC107;
+h2{color:#FFC107;
 	font-size: 25px
+
 }
 
 h3{
-	color:#FFC107;
+	color:#c1daff;
+	font-size: 25px
+}
+
+h4{
+	color:#2f270f;
 	font-size: 25px 
 }
 
@@ -33,16 +37,18 @@ ul{
 }
 
 body{
-	background-image: url("sea.jpg");
+	background-image: url("au.jpg");
 	background-repeat:no-repeat;
 	background-size: cover;
 }
 
-footer{
-	background-color:#d9ffea; 
-	
 
-	
+a{  
+	color:white;
+	font-size: 20px
+}
+video{
+	max-width:2000px;
 
-	
+
 }
