@@ -8,6 +8,7 @@ h1{
 }
 
 p{
+	font-family: cursive;
 	color:#6b0e0e;
 	font-size:19px;
 }
@@ -48,6 +49,7 @@ a{
 	font-size: 20px
 }
 video{
+	
 	max-width:2000px;
 
 

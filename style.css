@@ -1,5 +1,14 @@
+img{
+	float: center;
+	border-style: ;
+	border-radius: 50px
+
+
+}
+
 h1{
 	color:#b31b82;
+	font-family: cursive;
 }
 h2{
 	color: #2cab38
@@ -20,8 +29,11 @@ body{
 	background-color:#403a3b;
 }
 
+
+
 p{  color:#d0217f;
 	font-size:19px;
+	font-family: fantasy;
 
 }
 ul{
@@ -34,7 +46,9 @@ ul{
 	
 }
 .pictures{
-	text-align: center
+	position: static;
+
+
 }
 
 a{
