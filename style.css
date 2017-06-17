@@ -1,12 +1,13 @@
-img{
-	float: center;
-	border-style: ;
-	border-radius: 50px
+img {
+	border-radius:50px;
+	
 
 
 }
 
 h1{
+	padding:30px 20px;
+	
 	color:#b31b82;
 	font-family: cursive;
 }
@@ -20,12 +21,12 @@ h3{
 
 }
 
-h4{
+h4 {
 	font-size:22px;
 	color:#bdd8e8;
 }
 
-body{
+body {
 	background-color:#403a3b;
 }
 
@@ -36,22 +37,15 @@ p{  color:#d0217f;
 	font-family: fantasy;
 
 }
-ul{
+
+ul {
 	color:orange;
 	font-size:20px;
 }
 
-.lin{
-	text-align: center
 	
-}
-.pictures{
-	position: static;
 
-
-}
-
-a{
+a {
 	color:white; 
 	font-size: 20px
 }
