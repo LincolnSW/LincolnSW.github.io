@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Input</title>
+</head>
+<body>
+<!-- INPUTS e.g Username/Password -->
+<h1>Sign In!!</h1>
+
+<fieldset><legend>Sign In</legend>
+<form action="validateformdata.php" method="">
+
+<p>Username: <input type="text" name="Username" id="Username"/></p>
+<p>Password: <input type="Password" name="Password" id="Password"/></p>
+
+<!-- RADIO BUTTON -->
+<p>
+<label for="Sex">Sex: </label>
+<input type="radio" name="sex" value="Male" /> Male
+<input type="radio" name="sex" value="Female" /> Female
+</p>
+
+<!-- CHECKBOX BUTTONS -->
+<p>
+<label for="Interests">Interests: </label>
+<br />
+<input type="checkbox" name="interests" value="Games" /> Games
+<br />
+<input type="checkbox" name="interests" value="Books" /> Books
+<br />
+<input type="checkbox" name="interests" value="Learning" /> Learning
+<br />
+</p>
