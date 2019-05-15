@@ -1,0 +1,6 @@
+<!-- TEXTAREA -->
+<p><label>Mini Bio:
+<br />
+<textarea name="bio" rows="3" cols="32" maxlength="100"></textarea>
+</label>
+</p>
