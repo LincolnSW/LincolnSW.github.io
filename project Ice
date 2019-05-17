@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Life Unframed Ice Cream</title>
+	<link rel="stylesheet" type="text/css" href="unframed.css"></link>
+</head>
+<body>
+
+<h1 >Unframed Ice Cream!!!</h1>
+
+<div class="p1">
+<p>Unframed is an artisanal ice cream maker. “Artisan” means we make healthy ice cream from scratch, in small batches, from real and sustainable food.</p>
+
+<p>We care about making the world’s best ice cream — including dairy-based, fruit-based sorbets, and nut-based vegan options. We also incorporate an array of superfoods as toppings and flavours like our famous “Blue Coconut” made with Blue Spirulina.</p>
+
+<p>Our ice cream includes all-natural tastes that are sometimes subtle and sometimes complex, always with an obsession towards the perfect texture.</p>
+
+<p>We serve classic flavors, often with a twist… and we love to take you off the beaten track to discover new and extraordinary combinations.</p>
+
+<p>At any given time, we have 10 flavors on display that rotate depending on seasons, inspiration, and supply. We keep at least two sorbets and three vegan flavors at all times.</p>
+
+<p>We’re very proud of our local roots in Cape Town, South Africa.</p>
+</div>
+
+<h1 style="text-align: center">FLAVORS</h1>
+
+<ul>
+	<a href="dairy flavors">DAIRY FLAVORS</a>
+</ul>
+
+<ul>
+	<a href="vegan flavors">VEGAN FLAVORS</a>
+	
+</ul>
+
+<ul>
+	<a href="sorbets flavors">SORBETS FLAVORS</a>
+	
+</ul>
+
+
+
+
+</body>
+</html>
+
